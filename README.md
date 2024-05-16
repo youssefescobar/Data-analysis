@@ -2,7 +2,8 @@ I just started my data analysis journy, trying to share my little projects along
 
 data analysis
 
-1. Cleaned a properties data set from kaggle with python, visualized it with powerBi.
+1. Cleaned a properties dataset from kaggle with python, visualized it with powerBi, and answered simple questions.
+2. Cleaned a movies dataset with python and answered simple questions.
    
 ML
 
