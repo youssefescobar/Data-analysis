@@ -4,7 +4,7 @@ data analysis
 
 1. Cleaned a properties dataset from kaggle with python, visualized it with powerBi, and answered simple questions.
 2. Cleaned a movies dataset with python and answered simple questions.
-3. Cleaned and process multiple Datasets related to corona virus to prove that the more the country is developed the more it is prone to covid.
+3. Cleaned and processed multiple Datasets related to corona virus to prove that the more the country is developed the more it is prone to covid.
 4. Interactive HR Dashboard with powerbi
    
 ML
