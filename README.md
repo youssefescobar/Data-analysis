@@ -12,4 +12,4 @@ ML
 
 1. Linear regression model to predicited salaries based on work experinece.
 2. customer segmentation using Unsupervised machine learning: kmeans, elbow method to find optimal nunmer of clusters, PCA for visualization
-3. training Linear regression , Artificial neural network , decision tree regressor, Random forest regressor on university acceptance dataset 
+3. training Linear regression , Artificial neural network , decision tree regressor, Random forest regressor on university acceptance prediction
